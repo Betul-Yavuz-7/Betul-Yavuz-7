@@ -1,0 +1,3 @@
+- 👋 Merhaba, ben Betül Yavuz. Yönetim bilişim sistemleri 3. sınıf öğrencisiyim.
+- 👀 Front-end alanında kendimi geliştirmekte ve yeni teknolojileri öğrenmekteyim.
+- 🌱 Şu anda HTML, CSS ve JavaScript kullanarak web siteleri geliştirmekteyim.
